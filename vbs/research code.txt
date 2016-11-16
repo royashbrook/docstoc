@@ -1,0 +1,26 @@
+javascript:function iprl5(){var d=document,z=d.createElement('scr'+'ipt'),b=d.body,l=d.location;try{if(!b)throw(0);d.title='(Saving...) '+d.title;z.setAttribute('src',l.protocol+'//www.instapaper.com/j/oPA9z5yke8yJ?u='+encodeURIComponent(l.href)+'&t='+(new Date().getTime()));b.appendChild(z);}catch(e){alert('Please wait until the page has loaded.');}}iprl5();void(0)
+
+
+https://www.instapaper.com/api/add
+
+ Dim objXML,objNodes, objNode
+
+ Dim Array1
+
+   Set objXML = CreateObject("Microsoft.XMLDOM")
+
+   objXML.async = false
+
+   objXML.load(http://WebServiceWebSite/WebServiceName.asmx/WebServiceMethod)
+
+   objNodes = objXML.xml
+
+   Set objNodes = objXML.selectNodes("//NewDataSet")
+
+    For Each objNode in objNodes
+
+         Array1 = split(objNode.Text) '** ObjNode.text contains all values delimited by a space
+
+    Next
+
+End Function

@@ -1,0 +1,1 @@
+%TITLE%@%HOST%_%DATE%.%EXT%
