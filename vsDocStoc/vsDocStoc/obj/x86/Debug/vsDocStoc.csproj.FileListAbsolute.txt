@@ -1,0 +1,5 @@
+C:\Users\roy\Dropbox\code\vsDocStoc\vsDocStoc\bin\Debug\vsDocStoc.exe
+C:\Users\roy\Dropbox\code\vsDocStoc\vsDocStoc\bin\Debug\vsDocStoc.pdb
+C:\Users\roy\Dropbox\code\vsDocStoc\vsDocStoc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roy\Dropbox\code\vsDocStoc\vsDocStoc\obj\x86\Debug\vsDocStoc.exe
+C:\Users\roy\Dropbox\code\vsDocStoc\vsDocStoc\obj\x86\Debug\vsDocStoc.pdb

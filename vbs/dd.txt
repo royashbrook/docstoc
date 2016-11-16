@@ -1,0 +1,940 @@
+http://news.yahoo.com/s/ap/20110204/ap_on_bi_ge/us_skilling_son_death
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110204/ap_on_bi_ge/us_skilling_son_death
+http://news.yahoo.com/s/ap/20110204/ap_on_re_us/us_bellagio_hold_up
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110204/ap_on_re_us/us_bellagio_hold_up
+http://news.yahoo.com/s/afp/20110204/ts_alt_afp/usitinternetsoftwareicann
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/afp/20110204/ts_alt_afp/usitinternetsoftwareicann
+http://news.yahoo.com/s/afp/20110204/hl_afp/healthscienceobesity
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/afp/20110204/hl_afp/healthscienceobesity
+http://news.yahoo.com/s/nm/20110204/wl_nm/us_food_prices
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/nm/20110204/wl_nm/us_food_prices
+http://news.yahoo.com/s/ap/20110204/ap_on_re_mi_ea/ml_yemen
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110204/ap_on_re_mi_ea/ml_yemen
+http://news.yahoo.com/s/yblog_exclusive/20110203/pl_yblog_exclusive/turmoil-in-egypt-rages-key-questions-and-answers
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_exclusive/20110203/pl_yblog_exclusive/turmoil-in-egypt-rages-key-questions-and-answers
+http://news.yahoo.com/s/yblog_upshot/20110203/od_yblog_upshot/the-man-who-isnt-there
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_upshot/20110203/od_yblog_upshot/the-man-who-isnt-there
+http://news.yahoo.com/s/ap/20110203/ap_on_re_us/us_census2010_population
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110203/ap_on_re_us/us_census2010_population
+http://news.yahoo.com/s/ap/20110203/ap_on_re_us/us_electric_cars_tax_credits
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110203/ap_on_re_us/us_electric_cars_tax_credits
+http://news.yahoo.com/s/yblog_localdtw/20110203/ts_yblog_localdtw/metro-detroit-chef-matt-prentice-has-1-5m-tax-bill
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_localdtw/20110203/ts_yblog_localdtw/metro-detroit-chef-matt-prentice-has-1-5m-tax-bill
+http://news.yahoo.com/s/afp/20110203/ts_alt_afp/uspoliticsreligion
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/afp/20110203/ts_alt_afp/uspoliticsreligion
+http://news.yahoo.com/s/yblog_localdtw/20110203/ts_yblog_localdtw/private-landowners-complicate-reshaping-of-detroit
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_localdtw/20110203/ts_yblog_localdtw/private-landowners-complicate-reshaping-of-detroit
+http://news.yahoo.com/s/yblog_thecutline/20110203/ts_yblog_thecutline/journalists-get-attacked-arrested-in-egypt
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_thecutline/20110203/ts_yblog_thecutline/journalists-get-attacked-arrested-in-egypt
+http://news.yahoo.com/s/ap/20110203/ap_on_re_eu/eu_crumbling_auschwitz
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110203/ap_on_re_eu/eu_crumbling_auschwitz
+http://news.yahoo.com/s/afp/20110203/sc_afp/environmentusfoodoceans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/afp/20110203/sc_afp/environmentusfoodoceans
+http://news.yahoo.com/s/ap/20110203/ap_on_re_us/us_survivor_cow
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110203/ap_on_re_us/us_survivor_cow
+http://news.yahoo.com/s/yblog_thelookout/20110202/us_yblog_thelookout/san-francisco-bays-only-private-island-still-for-sale
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_thelookout/20110202/us_yblog_thelookout/san-francisco-bays-only-private-island-still-for-sale
+http://news.yahoo.com/s/yblog_technews/20110202/ts_yblog_technews/upgrade-your-life-how-to-video-chat-like-a-pro
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/yblog_technews/20110202/ts_yblog_technews/upgrade-your-life-how-to-video-chat-like-a-pro
+http://news.yahoo.com/s/ap/20110202/ap_on_re_us/us_prison_meditation
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=news.yahoo.com/s/ap/20110202/ap_on_re_us/us_prison_meditation
+why is the ocean salty
+http://en.wikipedia.org/wiki/Tokyo_Kodomo_Club
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Tokyo_Kodomo_Club
+http://en.wikipedia.org/wiki/Modest_Mouse
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Modest_Mouse
+http://en.wikipedia.org/wiki/Europa_(moon)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Europa_(moon)
+http://en.wikipedia.org/wiki/Europa_(moon)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Europa_(moon)
+http://en.wikipedia.org/wiki/Oceans_of_Europa
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Oceans_of_Europa
+http://en.wikipedia.org/wiki/Marine_biology
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Marine_biology
+http://en.wikipedia.org/wiki/Ocean_habitats
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ocean_habitats
+http://en.wikipedia.org/wiki/Arctic_Ocean
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Arctic_Ocean
+http://en.wikipedia.org/wiki/Salt
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Salt
+http://en.wikipedia.org/wiki/Salt#Salty_condiments
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Salt#Salty_condiments
+http://en.wikipedia.org/wiki/Saturday_Night_Live_(season_30)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Saturday_Night_Live_(season_30)
+http://en.wikipedia.org/wiki/Spragg_Bag
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Spragg_Bag
+http://en.wikipedia.org/wiki/Famine_relief
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Famine_relief
+http://en.wikipedia.org/wiki/Oceanic_physical-biological_process
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Oceanic_physical-biological_process
+http://en.wikipedia.org/wiki/Gulf_Stream
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Gulf_Stream
+http://en.wikipedia.org/wiki/Draining_and_development_of_the_Everglades
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Draining_and_development_of_the_Everglades
+http://en.wikipedia.org/wiki/Properties_of_water
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Properties_of_water
+http://en.wikipedia.org/wiki/Water_politics_in_the_Jordan_River_basin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Water_politics_in_the_Jordan_River_basin
+http://en.wikipedia.org/wiki/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean
+http://en.wikipedia.org/wiki/Anita_Ganeri
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Anita_Ganeri
+http://en.wikipedia.org/wiki/Gandalara_Cycle
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Gandalara_Cycle
+http://en.wikipedia.org/wiki/Alexander_the_Great_in_the_Qur%27an
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Alexander_the_Great_in_the_Qur%27an
+rosicrucian
+http://en.wikipedia.org/wiki/Hermeticism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermeticism
+http://en.wikipedia.org/wiki/File:HermesTrismegistusCauc.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:HermesTrismegistusCauc.jpg
+http://en.wikipedia.org/wiki/Hermeticism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermeticism
+http://en.wikipedia.org/wiki/Hermes_Trismegistus
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermes_Trismegistus
+http://en.wikipedia.org/wiki/Thoth
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Thoth
+http://en.wikipedia.org/wiki/Poimandres
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Poimandres
+http://en.wikipedia.org/wiki/Hermetica
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetica
+http://en.wikipedia.org/wiki/Corpus_Hermeticum
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Corpus_Hermeticum
+http://en.wikipedia.org/wiki/Kybalion
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Kybalion
+http://en.wikipedia.org/wiki/Alchemy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Alchemy
+http://en.wikipedia.org/wiki/Astrology
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Astrology
+http://en.wikipedia.org/wiki/Theurgy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Theurgy
+http://en.wikipedia.org/wiki/Hermetism,_Hermeticism_and_other_thought_systems
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetism,_Hermeticism_and_other_thought_systems
+http://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn
+http://en.wikipedia.org/wiki/Hermetic_Brotherhood_of_Luxor
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetic_Brotherhood_of_Luxor
+http://en.wikipedia.org/wiki/Hermetic_Brotherhood_of_Light
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetic_Brotherhood_of_Light
+http://en.wikipedia.org/wiki/Hermetic_Qabalah
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hermetic_Qabalah
+http://en.wikipedia.org/wiki/Occult_and_divinatory_tarot
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Occult_and_divinatory_tarot
+http://en.wikipedia.org/wiki/John_Dee
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/John_Dee
+http://en.wikipedia.org/wiki/Aleister_Crowley
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Aleister_Crowley
+http://en.wikipedia.org/wiki/Israel_Regardie
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Israel_Regardie
+http://en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Th%C4%81bit_ibn_Qurra
+islamic socialism
+http://en.wikipedia.org/wiki/Scientific_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Scientific_socialism
+http://en.wikipedia.org/wiki/Democratic_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Democratic_socialism
+http://en.wikipedia.org/wiki/Libertarian_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Libertarian_socialism
+http://en.wikipedia.org/wiki/Mutualism_(economic_theory)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Mutualism_(economic_theory)
+http://en.wikipedia.org/wiki/Market_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Market_socialism
+http://en.wikipedia.org/wiki/State_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/State_socialism
+http://en.wikipedia.org/wiki/Utopian_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Utopian_socialism
+http://en.wikipedia.org/wiki/Communism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Communism
+http://en.wikipedia.org/wiki/Social_anarchism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Social_anarchism
+http://en.wikipedia.org/wiki/Syndicalism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Syndicalism
+http://en.wikipedia.org/wiki/Social_democracy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Social_democracy
+http://en.wikipedia.org/wiki/Revolutionary_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Revolutionary_socialism
+http://en.wikipedia.org/wiki/Eco-socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Eco-socialism
+http://en.wikipedia.org/wiki/Guild_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Guild_socialism
+http://en.wikipedia.org/wiki/21st_century_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/21st_century_socialism
+http://en.wikipedia.org/wiki/Agrarian_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Agrarian_socialism
+javascript:toggleNavigationBar(2);
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=javascript:toggleNavigationBar(2);
+http://en.wikipedia.org/wiki/Types_of_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Types_of_socialism
+http://en.wikipedia.org/wiki/History_of_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/History_of_socialism
+http://en.wikipedia.org/wiki/Socialist_economics
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Socialist_economics
+http://en.wikipedia.org/wiki/Socialist_state
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Socialist_state
+http://en.wikipedia.org/wiki/Criticisms_of_socialism
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Criticisms_of_socialism
+st tammany parish school board
+http://en.wikipedia.org/wiki/St._Tammany_Parish_Public_Schools
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/St._Tammany_Parish_Public_Schools
+http://en.wikipedia.org/wiki/St._Tammany_Parish_School_Board
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/St._Tammany_Parish_School_Board
+http://en.wikipedia.org/wiki/St._Tammany_Parish,_Louisiana
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/St._Tammany_Parish,_Louisiana
+http://en.wikipedia.org/wiki/St._Tammany_Parish
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/St._Tammany_Parish
+http://en.wikipedia.org/wiki/Salmen_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Salmen_High_School
+http://en.wikipedia.org/wiki/Pearl_River_High_School_(Louisiana)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Pearl_River_High_School_(Louisiana)
+http://en.wikipedia.org/wiki/Fontainebleau_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Fontainebleau_High_School
+http://en.wikipedia.org/wiki/Suzanne_Mayfield_Krieger
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Suzanne_Mayfield_Krieger
+http://en.wikipedia.org/wiki/Covington_High_School_(Covington,_Louisiana)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Covington_High_School_(Covington,_Louisiana)
+http://en.wikipedia.org/wiki/A._G._Crowe
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/A._G._Crowe
+http://en.wikipedia.org/wiki/Mandeville_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Mandeville_High_School
+http://en.wikipedia.org/wiki/Lewis_L._Morgan
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lewis_L._Morgan
+http://en.wikipedia.org/wiki/John_L._Crain
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/John_L._Crain
+http://en.wikipedia.org/wiki/J._Emile_Verret
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/J._Emile_Verret
+http://en.wikipedia.org/wiki/New_Orleans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/New_Orleans
+http://en.wikipedia.org/wiki/Orleans_Parish
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Orleans_Parish
+http://en.wikipedia.org/wiki/Number_sense
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Number_sense
+http://en.wikipedia.org/wiki/Ascension_Parish,_Louisiana
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ascension_Parish,_Louisiana
+http://en.wikipedia.org/wiki/Tangipahoa_Parish,_Louisiana
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Tangipahoa_Parish,_Louisiana
+http://en.wikipedia.org/wiki/Washington_Parish,_Louisiana
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Washington_Parish,_Louisiana
+http://en.wikipedia.org/wiki/Julie_Quinn
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Julie_Quinn
+http://en.wikipedia.org/wiki/Ed_Scogin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ed_Scogin
+georgia guidestones
+http://en.wikipedia.org/wiki/File:Georgia_Guidestones_English_Full.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:Georgia_Guidestones_English_Full.jpg
+http://en.wikipedia.org/wiki/Granite
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Granite
+http://en.wikipedia.org/wiki/Elbert_County,_Georgia
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Elbert_County,_Georgia
+http://en.wikipedia.org/wiki/Georgia_(U.S._state)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_(U.S._state)
+http://en.wikipedia.org/wiki/USA
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/USA
+http://en.wikipedia.org/wiki/Babylonian
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Babylonian
+http://en.wikipedia.org/wiki/Ancient_Greek_language
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ancient_Greek_language
+http://en.wikipedia.org/wiki/Sanskrit
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Sanskrit
+http://en.wikipedia.org/wiki/Egyptian_hieroglyphs
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Egyptian_hieroglyphs
+http://en.wikipedia.org/wiki/Stonehenge
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Stonehenge
+http://en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-0
+http://en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-Smith_2009-1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-Smith_2009-1
+http://en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-Sullivan_2009-2
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#cite_note-Sullivan_2009-2
+http://en.wikipedia.org/wiki/Coping_(architecture)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Coping_(architecture)
+http://en.wikipedia.org/wiki/Georgia_Guidestones#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#
+http://en.wikipedia.org/wiki/Georgia_Guidestones#History
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#History
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Inscriptions
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Inscriptions
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Explanatory_tablet
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Explanatory_tablet
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Physical_data
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Physical_data
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Guidestone_languages
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Guidestone_languages
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Astronomical_features
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Astronomical_features
+http://en.wikipedia.org/wiki/Georgia_Guidestones#Location
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Georgia_Guidestones#Location
+men of letters
+http://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources
+http://en.wikipedia.org/wiki/Template:Citation_needed
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Template:Citation_needed
+http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence
+http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style_(lead_section)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Manual_of_Style_(lead_section)
+http://en.wikipedia.org/wiki/Wikipedia:Summary_style
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Summary_style
+http://en.wikipedia.org/wiki/Wikipedia:Lead_section#Length
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Lead_section#Length
+http://en.wikipedia.org/wiki/Wikipedia:Lead_section#Provide_an_accessible_overview
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Lead_section#Provide_an_accessible_overview
+http://en.wikipedia.org/wiki/File:Iranian_intellectual_women.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:Iranian_intellectual_women.jpg
+http://en.wikipedia.org/wiki/File:Iranian_intellectual_women.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:Iranian_intellectual_women.jpg
+http://en.wikipedia.org/wiki/Iranian
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Iranian
+http://en.wikipedia.org/wiki/Simin_Behbahani
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Simin_Behbahani
+http://en.wikipedia.org/wiki/Shirin_Ebadi
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Shirin_Ebadi
+http://en.wikipedia.org/wiki/Tahmineh_Milani
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Tahmineh_Milani
+http://en.wikipedia.org/wiki/Mehrangiz_Kar
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Mehrangiz_Kar
+http://en.wikipedia.org/wiki/Elaheh_Koulaei
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Elaheh_Koulaei
+http://en.wikipedia.org/wiki/Farah_Karimi
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Farah_Karimi
+http://en.wikipedia.org/wiki/Intelligence
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Intelligence
+http://en.wikipedia.org/wiki/Critical_thinking
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Critical_thinking
+http://en.wikipedia.org/wiki/Logic
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Logic
+http://en.wikipedia.org/wiki/Profession
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Profession
+http://en.wikipedia.org/wiki/Individual_capacity
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Individual_capacity
+http://en.wikipedia.org/wiki/Men_of_letters#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Men_of_letters#
+how old is jennifer lopez
+http://en.wikipedia.org/wiki/Bailando_por_un_Sue%C3%B1o:_Segundo_Campeonato_Mundial_de_Baile
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bailando_por_un_Sue%C3%B1o:_Segundo_Campeonato_Mundial_de_Baile
+http://en.wikipedia.org/wiki/Bailando_por_un_Sue%C3%B1o:_Segundo_Campeonato_Mundial_de_Baile#Jennifer_Lopez_Little_Train
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bailando_por_un_Sue%C3%B1o:_Segundo_Campeonato_Mundial_de_Baile#Jennifer_Lopez_Little_Train
+http://en.wikipedia.org/wiki/R._Kelly_production_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/R._Kelly_production_discography
+http://en.wikipedia.org/wiki/R._Kelly_production_discography#Jennifer_Lopez_-_The_Reel_Me
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/R._Kelly_production_discography#Jennifer_Lopez_-_The_Reel_Me
+http://en.wikipedia.org/wiki/Timbaland_production_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Timbaland_production_discography
+http://en.wikipedia.org/wiki/Timbaland_production_discography#Jennifer_Lopez_-_Rebirth
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Timbaland_production_discography#Jennifer_Lopez_-_Rebirth
+http://en.wikipedia.org/wiki/Kana_Nishino
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Kana_Nishino
+http://en.wikipedia.org/wiki/Jennifer_Lopez
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jennifer_Lopez
+http://en.wikipedia.org/wiki/Louboutins_(song)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Louboutins_(song)
+http://en.wikipedia.org/wiki/Michaela_Watkins
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Michaela_Watkins
+http://en.wikipedia.org/wiki/List_of_Saved_by_the_Bell_characters
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Saved_by_the_Bell_characters
+http://en.wikipedia.org/wiki/List_of_Saved_by_the_Bell_characters#Jennifer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Saved_by_the_Bell_characters#Jennifer
+http://en.wikipedia.org/wiki/Saturday_Night_Live_(season_35)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Saturday_Night_Live_(season_35)
+http://en.wikipedia.org/wiki/Eric_Gaskins
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Eric_Gaskins
+http://en.wikipedia.org/wiki/List_of_Karaoke_Revolution_songs
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Karaoke_Revolution_songs
+http://en.wikipedia.org/wiki/List_of_Class_of_3000_characters
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Class_of_3000_characters
+http://en.wikipedia.org/wiki/List_of_Class_of_3000_characters#Leela_Lopez
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Class_of_3000_characters#Leela_Lopez
+http://en.wikipedia.org/wiki/Be_Yourself_(Audioslave_song)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Be_Yourself_(Audioslave_song)
+http://en.wikipedia.org/wiki/The_Back-up_Plan
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Back-up_Plan
+http://en.wikipedia.org/wiki/2010_in_American_television
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2010_in_American_television
+http://en.wikipedia.org/wiki/1999_in_music
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1999_in_music
+http://en.wikipedia.org/wiki/Wing_Commander_III:_Heart_of_the_Tiger
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wing_Commander_III:_Heart_of_the_Tiger
+nadin khoury
+http://en.wikipedia.org/wiki/Special:Search
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search
+http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dnadin%2Bkhoury%26go%3DGo
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dnadin%2Bkhoury%26go%3DGo
+http://en.wikipedia.org/wiki/Special:Search?search=nadin%20khoury&go=Go
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=nadin%20khoury&go=Go
+http://en.wikipedia.org/wiki/Special:Search?search=nadin khoury&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=nadin khoury&go=Go#
+http://en.wikipedia.org/wiki/Special:Search?search=nadin khoury&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=nadin khoury&go=Go#
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+http://en.wikipedia.org/wiki/Portal:Contents
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Contents
+http://en.wikipedia.org/wiki/Portal:Featured_content
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Featured_content
+http://en.wikipedia.org/wiki/Portal:Current_events
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Current_events
+http://en.wikipedia.org/wiki/Special:Random
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Random
+http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&language=en&utm_source=donate&utm_medium=sidebar&utm_campaign=20101204SB002
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&language=en&utm_source=donate&utm_medium=sidebar&utm_campaign=20101204SB002
+http://en.wikipedia.org/wiki/Help:Contents
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Help:Contents
+http://en.wikipedia.org/wiki/Wikipedia:About
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:About
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Community_portal
+http://en.wikipedia.org/wiki/Special:RecentChanges
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:RecentChanges
+http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Contact_us
+http://en.wikipedia.org/wiki/Wikipedia:Upload
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Upload
+http://en.wikipedia.org/wiki/Special:SpecialPages
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:SpecialPages
+http://wikimediafoundation.org/wiki/Privacy_policy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=wikimediafoundation.org/wiki/Privacy_policy
+http://en.wikipedia.org/wiki/Wikipedia:About
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:About
+http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+lee majors
+http://en.wikipedia.org/wiki/File:Lee_Majors_at_Baftas.02.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:Lee_Majors_at_Baftas.02.jpg
+http://en.wikipedia.org/wiki/Wyandotte,_Michigan
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wyandotte,_Michigan
+http://en.wikipedia.org/wiki/United_States
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/United_States
+http://en.wikipedia.org/wiki/Farrah_Fawcett
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Farrah_Fawcett
+http://en.wikipedia.org/wiki/Karen_Velez
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Karen_Velez
+http://en.wikipedia.org/wiki/Barbara_Stanwyck
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Barbara_Stanwyck
+http://en.wikipedia.org/wiki/The_Big_Valley
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Big_Valley
+http://en.wikipedia.org/wiki/Arthur_Hill
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Arthur_Hill
+http://en.wikipedia.org/wiki/Owen_Marshall:_Counselor_at_Law
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Owen_Marshall:_Counselor_at_Law
+http://en.wikipedia.org/wiki/Steve_Austin_(fictional_character)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Steve_Austin_(fictional_character)
+http://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Six_Million_Dollar_Man
+http://en.wikipedia.org/wiki/The_Fall_Guy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Fall_Guy
+http://en.wikipedia.org/wiki/Son_of_the_Beach
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Son_of_the_Beach
+http://en.wikipedia.org/wiki/Lee_Majors#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#
+http://en.wikipedia.org/wiki/Lee_Majors#Early_life
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#Early_life
+http://en.wikipedia.org/wiki/Lee_Majors#Television_roles
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#Television_roles
+http://en.wikipedia.org/wiki/Lee_Majors#The_Big_Valley
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#The_Big_Valley
+http://en.wikipedia.org/wiki/Lee_Majors#Owen_Marshall:_Counselor_at_Law
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#Owen_Marshall:_Counselor_at_Law
+http://en.wikipedia.org/wiki/Lee_Majors#The_Six_Million_Dollar_Man
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#The_Six_Million_Dollar_Man
+http://en.wikipedia.org/wiki/Lee_Majors#Feature_film_career
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#Feature_film_career
+http://en.wikipedia.org/wiki/Lee_Majors#The_Fall_Guy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#The_Fall_Guy
+http://en.wikipedia.org/wiki/Lee_Majors#Health_problems
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lee_Majors#Health_problems
+bugatti veyron price
+http://en.wikipedia.org/wiki/McLaren_F1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/McLaren_F1
+http://en.wikipedia.org/wiki/Manual_transmission
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Manual_transmission
+http://en.wikipedia.org/wiki/Bugatti_Automobiles
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bugatti_Automobiles
+http://en.wikipedia.org/wiki/Bugatti_Automobiles#EB_16.4_Veyron
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bugatti_Automobiles#EB_16.4_Veyron
+http://en.wikipedia.org/wiki/Koenigsegg_CCR
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Koenigsegg_CCR
+http://en.wikipedia.org/wiki/Direct-Shift_Gearbox
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Direct-Shift_Gearbox
+http://en.wikipedia.org/wiki/Direct-Shift_Gearbox#Bugatti
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Direct-Shift_Gearbox#Bugatti
+http://en.wikipedia.org/wiki/Top_Gear_(series_12)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_12)
+http://en.wikipedia.org/wiki/Top_Gear_(series_14)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_14)
+http://en.wikipedia.org/wiki/Barrett-Jackson
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Barrett-Jackson
+http://en.wikipedia.org/wiki/Bugatti_Veyron
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bugatti_Veyron
+http://en.wikipedia.org/wiki/List_of_automotive_superlatives
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_automotive_superlatives
+http://en.wikipedia.org/wiki/List_of_automotive_superlatives#Price
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_automotive_superlatives#Price
+http://en.wikipedia.org/wiki/Top_Gear_(series_10)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_10)
+http://en.wikipedia.org/wiki/Autocar
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Autocar
+http://en.wikipedia.org/wiki/Autocar#Price
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Autocar#Price
+http://en.wikipedia.org/wiki/Top_Gear_(series_15)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_15)
+http://en.wikipedia.org/wiki/Top_Gear_(magazine)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(magazine)
+http://en.wikipedia.org/wiki/Top_Gear_(series_7)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_7)
+http://en.wikipedia.org/wiki/Top_Gear_(series_13)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Top_Gear_(series_13)
+http://en.wikipedia.org/wiki/Ford_Puma
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ford_Puma
+http://en.wikipedia.org/wiki/Nike_Mercurial_Vapor
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Nike_Mercurial_Vapor
+leander isd
+http://en.wikipedia.org/wiki/Cedar_Park,_Texas
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Cedar_Park,_Texas
+http://en.wikipedia.org/wiki/Jonestown,_Texas
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jonestown,_Texas
+http://en.wikipedia.org/wiki/Austin,_Texas
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Austin,_Texas
+http://en.wikipedia.org/wiki/Texas_Education_Agency
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Texas_Education_Agency
+http://en.wikipedia.org/wiki/Austin_Community_College
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Austin_Community_College
+http://en.wikipedia.org/wiki/Texas_Education_Agency_accountability_ratings_system
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Texas_Education_Agency_accountability_ratings_system
+http://en.wikipedia.org/wiki/Texas_Education_Agency
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Texas_Education_Agency
+http://en.wikipedia.org/wiki/Leander_ISD#cite_note-0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#cite_note-0
+http://en.wikipedia.org/wiki/Leander_ISD#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#
+http://en.wikipedia.org/wiki/Leander_ISD#Schools
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#Schools
+http://en.wikipedia.org/wiki/Leander_ISD#High_schools
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#High_schools
+http://en.wikipedia.org/wiki/Leander_ISD#Middle_schools
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#Middle_schools
+http://en.wikipedia.org/wiki/Leander_ISD#Elementary_schools
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#Elementary_schools
+http://en.wikipedia.org/wiki/Leander_ISD#See_also
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#See_also
+http://en.wikipedia.org/wiki/Leander_ISD#References
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#References
+http://en.wikipedia.org/wiki/Leander_ISD#External_links
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_ISD#External_links
+http://en.wikipedia.org/w/index.php?title=Leander_Independent_School_District&action=edit&section=1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Leander_Independent_School_District&action=edit&section=1
+http://en.wikipedia.org/w/index.php?title=Leander_Independent_School_District&action=edit&section=2
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Leander_Independent_School_District&action=edit&section=2
+http://en.wikipedia.org/wiki/Cedar_Park_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Cedar_Park_High_School
+http://en.wikipedia.org/wiki/Charles_Rouse_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Charles_Rouse_High_School
+http://en.wikipedia.org/wiki/Leander_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Leander_High_School
+http://en.wikipedia.org/wiki/Vandegrift_High_School
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Vandegrift_High_School
+liu bolin
+http://en.wikipedia.org/wiki/Liu_Bolin#cite_note-1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin#cite_note-1
+http://en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&section=1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&section=1
+http://en.wikipedia.org/wiki/Liu_Bolin#cite_ref-0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin#cite_ref-0
+http://myagenzia.wordpress.com/2009/08/06/the-art-of-being-invisible-hidden-liu-bolins-amazing-illusions/
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=myagenzia.wordpress.com/2009/08/06/the-art-of-being-invisible-hidden-liu-bolins-amazing-illusions/
+http://en.wikipedia.org/wiki/Liu_Bolin#cite_ref-1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin#cite_ref-1
+http://www.huffingtonpost.com/2009/11/12/burning-man-obama-video-c_n_355418.html
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=www.huffingtonpost.com/2009/11/12/burning-man-obama-video-c_n_355418.html
+http://en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&section=2
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&section=2
+http://www.ekfineart.com/html/artistresults.asp?artist=82&testing=true
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=www.ekfineart.com/html/artistresults.asp?artist=82&testing=true
+http://en.wikipedia.org/wiki/Liu_Bolin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin
+http://en.wikipedia.org/wiki/Special:Categories
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Categories
+http://en.wikipedia.org/wiki/Category:1973_births
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Category:1973_births
+http://en.wikipedia.org/wiki/Category:Chinese_artists
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Category:Chinese_artists
+http://en.wikipedia.org/wiki/Category:Living_people
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Category:Living_people
+http://en.wikipedia.org/wiki/Category:Articles_containing_simplified_Chinese_language_text
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Category:Articles_containing_simplified_Chinese_language_text
+http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Liu_Bolin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Liu_Bolin
+http://en.wikipedia.org/wiki/Liu_Bolin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin
+http://en.wikipedia.org/wiki/Talk:Liu_Bolin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Talk:Liu_Bolin
+http://en.wikipedia.org/wiki/Liu_Bolin#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin#
+http://en.wikipedia.org/wiki/Liu_Bolin
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin
+http://en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&editintro=Template:BLP_editintro
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Liu_Bolin&action=edit&editintro=Template:BLP_editintro
+http://en.wikipedia.org/w/index.php?title=Liu_Bolin&action=history
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Liu_Bolin&action=history
+http://en.wikipedia.org/wiki/Liu_Bolin#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Liu_Bolin#
+green and yellow lil wayne
+http://en.wikipedia.org/wiki/List_of_licensed_and_localized_editions_of_Monopoly:_USA
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_licensed_and_localized_editions_of_Monopoly:_USA
+http://en.wikipedia.org/wiki/T-Pain_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/T-Pain_discography
+http://en.wikipedia.org/wiki/Hip-hop_rivalry
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hip-hop_rivalry
+http://en.wikipedia.org/wiki/Hip-hop_rivalry#Lil.27_Kim_vs._Nicki_Minaj
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hip-hop_rivalry#Lil.27_Kim_vs._Nicki_Minaj
+http://en.wikipedia.org/wiki/2010_in_hip_hop_music
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2010_in_hip_hop_music
+http://en.wikipedia.org/wiki/List_of_Soul_Train_episodes_(seasons_30%E2%80%9337)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Soul_Train_episodes_(seasons_30%E2%80%9337)
+http://en.wikipedia.org/wiki/Purple_drank
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Purple_drank
+http://en.wikipedia.org/wiki/Game_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Game_discography
+http://en.wikipedia.org/wiki/John_Ford
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/John_Ford
+http://en.wikipedia.org/wiki/List_of_Celebrity_Deathmatch_episodes
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Celebrity_Deathmatch_episodes
+http://en.wikipedia.org/wiki/Snoop_Dogg_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Snoop_Dogg_discography
+http://en.wikipedia.org/wiki/2008_in_music
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2008_in_music
+http://en.wikipedia.org/wiki/Guests_on_Soul_Train
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Guests_on_Soul_Train
+http://en.wikipedia.org/wiki/List_of_Chappelle%27s_Show_skits
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Chappelle%27s_Show_skits
+http://en.wikipedia.org/wiki/The_Neptunes_discography
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Neptunes_discography
+http://en.wikipedia.org/wiki/Endurance_(TV_series)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Endurance_(TV_series)
+http://en.wikipedia.org/wiki/MTV_Cribs
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/MTV_Cribs
+http://en.wikipedia.org/wiki/2010_in_American_music
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2010_in_American_music
+http://en.wikipedia.org/wiki/List_of_artists_who_have_covered_The_Beatles
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_artists_who_have_covered_The_Beatles
+http://en.wikipedia.org/wiki/Theatre_of_N.O.T.E.
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Theatre_of_N.O.T.E.
+http://en.wikipedia.org/wiki/M-102_(Michigan_highway)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/M-102_(Michigan_highway)
+http://en.wikipedia.org/w/index.php?title=Special:Search&limit=20&offset=20&ns0=1&redirs=0&search=green+and+yellow+lil+wayne
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&limit=20&offset=20&ns0=1&redirs=0&search=green+and+yellow+lil+wayne
+fox 8 new orleans
+http://en.wikipedia.org/wiki/Hurricane_Katrina
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hurricane_Katrina
+http://en.wikipedia.org/wiki/Hurricane_Katrina_on_New_Orleans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hurricane_Katrina_on_New_Orleans
+http://en.wikipedia.org/wiki/Carolina_Panthers
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Carolina_Panthers
+http://en.wikipedia.org/wiki/Carolina_Panthers#New_Orleans_Saints
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Carolina_Panthers#New_Orleans_Saints
+http://en.wikipedia.org/wiki/War_of_1812
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/War_of_1812
+http://en.wikipedia.org/wiki/War_of_1812#New_Orleans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/War_of_1812#New_Orleans
+http://en.wikipedia.org/wiki/Oklahoma_City
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Oklahoma_City
+http://en.wikipedia.org/wiki/Oklahoma_City#New_Orleans.2FOklahoma_City_Hornets
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Oklahoma_City#New_Orleans.2FOklahoma_City_Hornets
+http://en.wikipedia.org/wiki/New_Orleans_Police_Department
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/New_Orleans_Police_Department
+http://en.wikipedia.org/wiki/Effects_of_Hurricane_Katrina_in_New_Orleans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Effects_of_Hurricane_Katrina_in_New_Orleans
+http://en.wikipedia.org/wiki/Jim_E._Mora
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jim_E._Mora
+http://en.wikipedia.org/wiki/Jim_E._Mora#New_Orleans_Saints
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jim_E._Mora#New_Orleans_Saints
+http://en.wikipedia.org/wiki/David_Duke
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/David_Duke
+http://en.wikipedia.org/wiki/New_Orleans_Protocol
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/New_Orleans_Protocol
+http://en.wikipedia.org/wiki/2009_Carolina_Panthers_season
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2009_Carolina_Panthers_season
+http://en.wikipedia.org/wiki/2009_Carolina_Panthers_season#Week_9:_at_New_Orleans_Saints
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2009_Carolina_Panthers_season#Week_9:_at_New_Orleans_Saints
+http://en.wikipedia.org/wiki/Louisiana_(New_France)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Louisiana_(New_France)
+http://en.wikipedia.org/wiki/Louisiana_(New_France)#The_economic_role_of_New_Orleans
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Louisiana_(New_France)#The_economic_role_of_New_Orleans
+http://en.wikipedia.org/wiki/2006_New_Orleans_Saints_season
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2006_New_Orleans_Saints_season
+http://en.wikipedia.org/wiki/2006_New_Orleans_Saints_season#Week_8:_vs._Baltimore_Ravens
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2006_New_Orleans_Saints_season#Week_8:_vs._Baltimore_Ravens
+http://en.wikipedia.org/wiki/New_Orleans_Emergency_Medical_Services
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/New_Orleans_Emergency_Medical_Services
+http://en.wikipedia.org/wiki/FOX_8
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/FOX_8
+alabama fax cam
+http://en.wikipedia.org/wiki/Special:Search
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search
+http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dalabama%2Bfax%2Bcam%26go%3DGo
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dalabama%2Bfax%2Bcam%26go%3DGo
+http://en.wikipedia.org/wiki/Special:Search?search=alabama%20fax%20cam&go=Go
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=alabama%20fax%20cam&go=Go
+http://en.wikipedia.org/wiki/Special:Search?search=alabama fax cam&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=alabama fax cam&go=Go#
+http://en.wikipedia.org/wiki/Special:Search?search=alabama fax cam&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=alabama fax cam&go=Go#
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+http://en.wikipedia.org/wiki/Portal:Contents
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Contents
+http://en.wikipedia.org/wiki/Portal:Featured_content
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Featured_content
+http://en.wikipedia.org/wiki/Portal:Current_events
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Portal:Current_events
+http://en.wikipedia.org/wiki/Special:Random
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Random
+http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&language=en&utm_source=donate&utm_medium=sidebar&utm_campaign=20101204SB002
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&language=en&utm_source=donate&utm_medium=sidebar&utm_campaign=20101204SB002
+http://en.wikipedia.org/wiki/Help:Contents
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Help:Contents
+http://en.wikipedia.org/wiki/Wikipedia:About
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:About
+http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Community_portal
+http://en.wikipedia.org/wiki/Special:RecentChanges
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:RecentChanges
+http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Contact_us
+http://en.wikipedia.org/wiki/Wikipedia:Upload
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:Upload
+http://en.wikipedia.org/wiki/Special:SpecialPages
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:SpecialPages
+http://wikimediafoundation.org/wiki/Privacy_policy
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=wikimediafoundation.org/wiki/Privacy_policy
+http://en.wikipedia.org/wiki/Wikipedia:About
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:About
+http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+baby mail
+http://en.wikipedia.org/wiki/Clubby
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Clubby
+http://en.wikipedia.org/wiki/Clubby_(Beanie_Baby)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Clubby_(Beanie_Baby)
+http://en.wikipedia.org/wiki/Laurie_Brett
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Laurie_Brett
+http://en.wikipedia.org/wiki/Direct_Marketing_Association_(UK)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Direct_Marketing_Association_(UK)
+http://en.wikipedia.org/wiki/Stephen_Mailer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Stephen_Mailer
+http://en.wikipedia.org/wiki/NHS_Information_Authority
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/NHS_Information_Authority
+http://en.wikipedia.org/wiki/Sasha_Lazard
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Sasha_Lazard
+http://en.wikipedia.org/wiki/Dancing_baby
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Dancing_baby
+http://en.wikipedia.org/wiki/Lisa_M._Montgomery
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Lisa_M._Montgomery
+http://en.wikipedia.org/wiki/List_of_recurring_characters_in_The_Simpsons
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_recurring_characters_in_The_Simpsons
+http://en.wikipedia.org/wiki/Cry-Baby
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Cry-Baby
+http://en.wikipedia.org/wiki/Pampers
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Pampers
+http://en.wikipedia.org/wiki/XEROK-AM
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/XEROK-AM
+http://en.wikipedia.org/wiki/List_of_Muppet_Babies_episodes
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Muppet_Babies_episodes
+http://en.wikipedia.org/wiki/Anita_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Anita_Page
+http://en.wikipedia.org/wiki/Blue_Horizon
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Blue_Horizon
+http://en.wikipedia.org/wiki/Ayumi_Shiina
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Ayumi_Shiina
+http://en.wikipedia.org/wiki/The_Heart_Never_Lies
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Heart_Never_Lies
+http://en.wikipedia.org/wiki/Bringing_Up_Baby_(TV_programme)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Bringing_Up_Baby_(TV_programme)
+http://en.wikipedia.org/wiki/Amelia_Dyer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Amelia_Dyer
+http://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Akrotiri_and_Dhekelia
+http://en.wikipedia.org/w/index.php?title=Special:Search&limit=20&offset=20&ns0=1&redirs=0&search=baby+mail
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&limit=20&offset=20&ns0=1&redirs=0&search=baby+mail
+jules asner
+http://en.wikipedia.org/wiki/File:Steven_Soderbergh_66%C3%A8me_Festival_de_Venise_(Mostra)_3.jpg
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/File:Steven_Soderbergh_66%C3%A8me_Festival_de_Venise_(Mostra)_3.jpg
+http://en.wikipedia.org/wiki/66th_Venice_International_Film_Festival
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/66th_Venice_International_Film_Festival
+http://en.wikipedia.org/wiki/Tempe,_Arizona
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Tempe,_Arizona
+http://en.wikipedia.org/wiki/Arizona
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Arizona
+http://en.wikipedia.org/w/index.php?title=Matthew_Asner&action=edit&redlink=1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Matthew_Asner&action=edit&redlink=1
+http://en.wikipedia.org/wiki/Steven_Soderbergh
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Steven_Soderbergh
+http://en.wikipedia.org/wiki/United_States
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/United_States
+http://en.wikipedia.org/wiki/Television
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Television
+http://en.wikipedia.org/wiki/Writer
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Writer
+http://en.wikipedia.org/wiki/Model_(person)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Model_(person)
+http://en.wikipedia.org/wiki/Jules_Asner#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#
+http://en.wikipedia.org/wiki/Jules_Asner#Personal_life
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#Personal_life
+http://en.wikipedia.org/wiki/Jules_Asner#Career
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#Career
+http://en.wikipedia.org/wiki/Jules_Asner#References
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#References
+http://en.wikipedia.org/wiki/Jules_Asner#External_links
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#External_links
+http://en.wikipedia.org/w/index.php?title=Jules_Asner&action=edit&section=1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Jules_Asner&action=edit&section=1
+http://en.wikipedia.org/wiki/Tempe,_Arizona
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Tempe,_Arizona
+http://en.wikipedia.org/wiki/Jules_Asner#cite_note-0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#cite_note-0
+http://en.wikipedia.org/wiki/Scottsdale,_Arizona
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Scottsdale,_Arizona
+http://en.wikipedia.org/wiki/Elite_Model_Management
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Elite_Model_Management
+http://en.wikipedia.org/wiki/Cindy_Crawford
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Cindy_Crawford
+http://en.wikipedia.org/wiki/Jules_Asner#cite_note-imdb-bio-1
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Jules_Asner#cite_note-imdb-bio-1
+what time does the superbowl start
+http://en.wikipedia.org/wiki/Super_Bowl_XLIV
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XLIV
+http://en.wikipedia.org/wiki/Super_Bowl_XXII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XXII
+http://en.wikipedia.org/wiki/1988_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1988_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XVII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XVII
+http://en.wikipedia.org/wiki/1983_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1983_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XXXV
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XXXV
+http://en.wikipedia.org/wiki/2001_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2001_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XVIII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XVIII
+http://en.wikipedia.org/wiki/1984_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1984_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_VIII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_VIII
+http://en.wikipedia.org/wiki/1974_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1974_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XLII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XLII
+http://en.wikipedia.org/wiki/Superbowl_XLII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Superbowl_XLII
+http://en.wikipedia.org/wiki/Super_Bowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl
+http://en.wikipedia.org/wiki/Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XLIII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XLIII
+http://en.wikipedia.org/wiki/2009_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/2009_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XXXI
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XXXI
+http://en.wikipedia.org/wiki/1997_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1997_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XXVII
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XXVII
+http://en.wikipedia.org/wiki/1993_Superbowl
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/1993_Superbowl
+http://en.wikipedia.org/wiki/Super_Bowl_XXIX
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Super_Bowl_XXIX
+steven tyler american idol apology
+http://en.wikipedia.org/w/index.php?title=Special:Search&search=steven+tyler+american+idol+apology&fulltext=Search&advanced=1&ns0=1&redirs=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&search=steven+tyler+american+idol+apology&fulltext=Search&advanced=1&ns0=1&redirs=0
+http://en.wikipedia.org/wiki/American_Idol_(season_10)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/American_Idol_(season_10)
+http://en.wikipedia.org/wiki/American_Idol_(season_10)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/American_Idol_(season_10)
+http://en.wikipedia.org/wiki/List_of_Big_Brother_12_HouseGuests_(U.S.)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Big_Brother_12_HouseGuests_(U.S.)
+http://en.wikipedia.org/wiki/Joan_Jett
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Joan_Jett
+http://en.wikipedia.org/wiki/List_of_Video_on_Trial_episodes
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_Video_on_Trial_episodes
+http://en.wikipedia.org/wiki/List_of_people_affected_by_bipolar_disorder
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_people_affected_by_bipolar_disorder
+http://en.wikipedia.org/wiki/List_of_people_from_Teaneck,_New_Jersey
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_people_from_Teaneck,_New_Jersey
+http://en.wikipedia.org/wiki/Phil_Hartman
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Phil_Hartman
+http://en.wikipedia.org/wiki/Phil_Hartman
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Phil_Hartman
+http://en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=20&offset=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=20&offset=0
+http://en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=50&offset=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=50&offset=0
+http://en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=100&offset=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=100&offset=0
+http://en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=250&offset=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=250&offset=0
+http://en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=500&offset=0
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:Search&ns0=1&redirs=0&search=steven+tyler+american+idol+apology&limit=500&offset=0
+http://en.wikipedia.org/wiki/Special:Search
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search
+http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dsteven%2Btyler%2Bamerican%2Bidol%2Bapology%26go%3DGo
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special:Search&returntoquery=search%3Dsteven%2Btyler%2Bamerican%2Bidol%2Bapology%26go%3DGo
+http://en.wikipedia.org/wiki/Special:Search?search=steven%20tyler%20american%20idol%20apology&go=Go
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=steven%20tyler%20american%20idol%20apology&go=Go
+http://en.wikipedia.org/wiki/Special:Search?search=steven tyler american idol apology&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=steven tyler american idol apology&go=Go#
+http://en.wikipedia.org/wiki/Special:Search?search=steven tyler american idol apology&go=Go#
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Special:Search?search=steven tyler american idol apology&go=Go#
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+http://en.wikipedia.org/wiki/Main_Page
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Main_Page
+chelsea clinton marriage
+http://en.wikipedia.org/wiki/Chelsea_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Chelsea_Clinton
+http://en.wikipedia.org/wiki/Chelsea_Clinton#Engagement_and_marriage
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Chelsea_Clinton#Engagement_and_marriage
+http://en.wikipedia.org/wiki/David_Shuster
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/David_Shuster
+http://en.wikipedia.org/wiki/David_Shuster#Chelsea_Clinton_remark_and_suspension
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/David_Shuster#Chelsea_Clinton_remark_and_suspension
+http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hillary_Rodham_Clinton
+http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton#Marriage_and_family.2C_law_career_and_First_Lady_of_Arkansas
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hillary_Rodham_Clinton#Marriage_and_family.2C_law_career_and_First_Lady_of_Arkansas
+http://en.wikipedia.org/wiki/Political_positions_of_Hillary_Rodham_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Political_positions_of_Hillary_Rodham_Clinton
+http://en.wikipedia.org/wiki/Hillary_Clinton_caucuses_and_primaries,_2008
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Hillary_Clinton_caucuses_and_primaries,_2008
+http://en.wikipedia.org/wiki/Marjorie_Margolies-Mezvinsky
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Marjorie_Margolies-Mezvinsky
+http://en.wikipedia.org/wiki/List_of_books_about_Hillary_Rodham_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_books_about_Hillary_Rodham_Clinton
+http://en.wikipedia.org/wiki/Zacharie_Cloutier
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Zacharie_Cloutier
+http://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Presidency_of_Bill_Clinton
+http://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Presidency_of_Bill_Clinton
+http://en.wikipedia.org/wiki/Senate_career_of_Hillary_Rodham_Clinton
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Senate_career_of_Hillary_Rodham_Clinton
+http://en.wikipedia.org/wiki/Francis_Seymour-Conway,_1st_Marquess_of_Hertford
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Francis_Seymour-Conway,_1st_Marquess_of_Hertford
+http://en.wikipedia.org/wiki/Francis_Seymour-Conway,_1st_Marquess_of_Hertford#Marriage
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Francis_Seymour-Conway,_1st_Marquess_of_Hertford#Marriage
+http://en.wikipedia.org/wiki/Sara_Dylan
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Sara_Dylan
+http://en.wikipedia.org/wiki/Sara_Dylan#Marriage_to_Bob_Dylan
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Sara_Dylan#Marriage_to_Bob_Dylan
+http://en.wikipedia.org/wiki/List_of_United_States_political_families_(C)
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_United_States_political_families_(C)
+http://en.wikipedia.org/wiki/List_of_United_States_political_families_(C)#The_Clintons
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/List_of_United_States_political_families_(C)#The_Clintons
+http://en.wikipedia.org/wiki/The_Truth_About_Hillary
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/The_Truth_About_Hillary
+http://en.wikipedia.org/wiki/Edward_Mezvinsky
+201	https://www.instapaper.com/api/add?username=emanretla@gmail.com&password=p&url=en.wikipedia.org/wiki/Edward_Mezvinsky

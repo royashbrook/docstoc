@@ -1,0 +1,37 @@
+u1 = "http://www.google.com/trends/hottrends/atom/hourly"
+u2 = "http://www.gmodules.com/ig/ifr?url=http%3A%2F%2Fwww.google.com%2Fig%2Fmodules%2Fgoogle_insightsforsearch_relatedsearches.xml&amp;up__results_type=RISING&amp;up__property=empty&amp;up__search_term=&amp;up__location=US&amp;up__category=0&amp;up__time_range=7-d&amp;up__max_results=10&amp;synd=open&amp;w=320&amp;h=350&amp;lang=en-US&amp;title=Google+Insights+for+Search&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"
+u3 = "http://rss.news.yahoo.com/rss/mostemailed"
+
+With CreateObject("InternetExplorer.Application")
+
+  .Navigate u1
+  Do Until .ReadyState = 4
+    Wscript.sleep 10
+  Loop
+    
+  int i = 0
+  for each link in .document.links
+	i=i+1
+	if i > 4 and i < 25 then
+	Wscript.echo link.InnerText
+	end if
+  next
+
+  .Quit
+End With
+
+With CreateObject("InternetExplorer.Application")
+
+  .Navigate u2
+  Do Until .ReadyState = 4
+    Wscript.sleep 10
+  Loop
+    
+  int i = 0
+  for each link in .document.links
+	i=i+1
+	Wscript.echo link.InnerText
+  next
+
+  .Quit
+End With

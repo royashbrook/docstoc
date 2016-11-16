@@ -1,0 +1,1 @@
+for /f %i in ('dir /b 1????????.docx') do "..\My Dropbox\code\fixdocs.vbs" %i
